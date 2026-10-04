@@ -1,0 +1,6 @@
+{
+  "name": "ApexDrive Auto Market Intelligence",
+  "description": "Comprehensive dealership vehicle search featuring exact factory colors, horsepower & torque specs, drivetrain analysis, live surrounding-area price comps, integrated Carfax history side-panel, Manheim Market Report (MMR) auction valuation, and instant trade-in equity appraisal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
